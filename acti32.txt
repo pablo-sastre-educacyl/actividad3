@@ -1,0 +1,2 @@
+Primera linea de acti32.txt
+Segunda linea
